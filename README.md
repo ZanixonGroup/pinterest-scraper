@@ -3,28 +3,28 @@
   
 </p>
 <p align="center">
-<a href="https://github.com/TrishCX/Pinterest-Scraper" target="_blank">
+<a href="https://github.com/zanixongroup/pinterest-scraper" target="_blank">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
 </p>
 
   <p align="center">
 <p align="center">
-  <a href="https://github.com/TrishCX/Frix" target="_blank">
-    <img src="https://img.shields.io/npm/v/@myno_21/pinterest-scraper.svg" alt="Build Status">
+  <a href="https://github.com/ztrdiamond" target="_blank">
+    <img src="https://img.shields.io/npm/v/@zanixongroup/pinterest-scraper.svg" alt="Build Status">
   </a>
-  <a href="https://github.com/TrishCX/Pinterest-Scraper" target="_blank">
+  <a href="https://github.com/zanixongroup/pinterest-scraper" target="_blank">
     <img src="https://img.shields.io/badge/License-Boost_1.0-lightblue.svg" alt="Codecov" />
   </a>
-  <a href="https://github.com/TrishCX/Frix" target="_blank">
+  <a href="https://github.com/ztrdiamond" target="_blank">
     <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License">
   </a>
   
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@myno_21/pinterest-scraper" target="_blank">
-    <img src="https://img.shields.io/npm/dt/@myno_21/pinterest-scraper.svg" />
+  <a href="https://www.npmjs.com/package/@zanixongroup/pinterest-scraper" target="_blank">
+    <img src="https://img.shields.io/npm/dt/@zanixongroup/pinterest-scraper.svg" />
   </a>
   
 </p>
@@ -54,19 +54,19 @@
 # ❔Installation
 
 ```console
-$ npm install @myno_21/pinterest-scraper
+$ npm install @zanixongroup/pinterest-scraper
 ```
 
 ## Import
 
 ```typescript
-import * as Pinterest from "@myno_21/pinterest-scraper";
+import * as Pinterest from "@zanixongroup/pinterest-scraper";
 ```
 
 ## Example
 
 ```ts
-import * as Pinterest from "@myno_21/pinterest-scraper";
+import * as Pinterest from "@zanixongroup/pinterest-scraper";
 
 (async () => {
   await get();
@@ -103,8 +103,8 @@ async function get() {
 
 # 🔗 Links
 
-- [Github](https://github.com/TrishCX)
-- [Repository](https://github.com/TrishCX/Pinterest-Scraper)
+- [Github](https://github.com/ztrdiamond)
+- [Repository](https://github.com/zanixongroup/pinterest-scraper)
 
 # License
 
