@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1070412686791290910/1092330379110781000/SPOILER_1680466611767.png" width="800" alt="accessibility text">
-  
-</p>
-<p align="center">
 <a href="https://github.com/zanixongroup/pinterest-scraper" target="_blank">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
